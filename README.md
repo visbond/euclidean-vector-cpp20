@@ -2,7 +2,7 @@
 
 This work was made to fulfil assignment requirements for a course in Advanced C++ Programming during a university Masters degree in IT. The accompanying files implement a Euclidean Vector class in a fairly detailed manner. The emphasis is on keeping code fast and efficient, using C++ std algorithms and ranges. No for loop is used, nor direct array indexes, nor bare pointers. Even for_each is used only once (that too for_each_n). Even fairly large operations, such as multiplying two million-element vectors, happen with no perceptible lag. A fairly comprehensive test suite has also been written, using the Catch2 library.
 
-The exact subject-code used  by the university is not being given in this file, the repo name, or the file names, to prevent current students from finding this. In case the instructor reuses the assignment, they could be tempted to plagiarize from this, and it carries heavy penalties for them.
+The exact subject-code used  by the university is not being given in this introduction, the repo name, or the file names, to prevent current students from finding this. In case the instructor reuses the assignment, students could be tempted to look for readymade solutions. Plagiarism carries a high risk of penalties and I want to avoid giving them the temptation.
 
 The assignment specification follows (some admin-related info, changelog etc have been removed).
 
