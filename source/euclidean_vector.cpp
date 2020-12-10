@@ -12,7 +12,7 @@
 //
 // Class methods code Copyright (c) Vishal Bondwal, Apache 2.0 license
 
-#include "comp6771/euclidean_vector.hpp"
+#include "euclidean_vector.hpp"
 #include <cstddef>
 #include <gsl/gsl-lite.hpp>
 #include <iostream>
